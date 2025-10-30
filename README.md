@@ -4,7 +4,7 @@
 - 😀 Do something to make myself happy
 - 📫 You can reach me via email [beststarli@foxmail.com](mailto:beststarli@foxmail.com) 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,vue,nuxt,react,nextjs,tailwind,nestjs,prisma,postgres,redis,supabase,rust,wasm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,vue,pinia,react,nextjs,tailwind,electron,vite,mongodb,postgres,docker,python,fastapi,git,notion,npm,postman,anaconda,vercel,vscode&perline=12)](https://skillicons.dev)
 
 
 ![](https://raw.githubusercontent.com/beststar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
