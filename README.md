@@ -6,10 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,nodejs,vue,pinia,react,nextjs,tailwind,electron,vite,mongodb,postgres,docker,python,fastapi,git,notion,npm,postman,anaconda,vercel,vscode&theme=light&perline=12)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/b67c1be85226bbf60b7139b443f5b5e0fa2dbe57/generated/languages.svg?token=BAU5I2V72YJLBEMPCBZYPMDJANWQO)
-![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/b67c1be85226bbf60b7139b443f5b5e0fa2dbe57/generated/overview.svg?token=BAU5I2RWFL4WJ66GWOVJ7RDJANWTU)
-
-![](https://raw.githubusercontent.com/BestStarLi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/BestStarLi/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/BestStarLi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/BestStarLi/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/BestStarLi/beststar-stats/master/generated/languages.svg#gh-light-mode-only)
